@@ -1,5 +1,14 @@
-/vendor
+_ide_helper.php
+.phpstorm.meta.php
+/public/storage
 /node_modules
 Homestead.yaml
 Homestead.json
+/nbproject
+/vendor
+/.idea
 .env
+
+
+
+
